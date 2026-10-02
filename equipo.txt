@@ -1,2 +1,3 @@
 segundo fichero
 Ordenador utilizado: PC del instituto
+Sistema operativo: Windows 11
